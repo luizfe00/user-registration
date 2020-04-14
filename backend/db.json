@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Luiz Felipe",
+      "email": "luizzfe00@hotmail.com",
+      "id": 1
+    },
+    {
+      "name": "Xqn",
+      "email": "gohancg@hotmail.com",
+      "id": 2
+    },
+    {
+      "name": "Gordinho",
+      "email": "rafaeltjg13@hotmail.com",
+      "id": 3
+    }
+  ]
+}
